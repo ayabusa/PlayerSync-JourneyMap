@@ -7,6 +7,9 @@ This is a simple addon paired with a server that enables you to sync your map wi
 Use you favorite IDE or just ```gradlew.bat build```
 ## Q&A
 Q: Why is the server written in Rust and not Java?
+
 A: Because Java sucks.
+
 Q: Why is there so much spagetthie code?
+
 A: Shhhhhh.....
